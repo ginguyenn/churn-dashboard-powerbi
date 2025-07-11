@@ -1,7 +1,5 @@
 # Analyse der Kundenabwanderung mit Power BI
 
-![image.png](attachment:c0dc6556-f065-4055-af9f-77da7e2435d1:image.png)
-
 ### Berichtübersicht
 
 Diese Power BI-Dashboard visualisiert und analysiert Daten zur Kundenabwanderung eines fiktiven Telekommunikationsunternehmens mit über 6.600 Kundeneinträgen. Der Fokus liegt auf:
